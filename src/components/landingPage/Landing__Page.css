@@ -1,0 +1,54 @@
+.LandingPage{
+    background-color: #fff;
+    width: 90%;
+    margin: auto;
+    padding: 5%;
+}
+
+.LandingPage__Main{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 10%;
+}
+
+.GetStarted__Info{
+    text-align: left;
+}
+
+.GetStarted__Info h1{
+    padding-bottom: 4%;
+}
+
+.GetStarted__Info p{
+    color: #707070;
+    padding-top: 2%;
+    width: 75%;
+}
+
+.getStarted__btn{
+    margin-top: 8%;
+    padding: 12px 39px;
+    background-color: #3387ea;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.LandingPage__Main img{
+    width: 80%;
+    margin: auto;
+}
+
+.Scroll a{
+    color: #3387ea;
+    font-weight: bold;
+}
+
+.Scroll{
+    margin-top: 3%;
+}
+
+.Scroll__Icon{
+    padding-right: 2%;
+}

@@ -1,0 +1,18 @@
+.Top__Nav{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.Top__Nav_Info{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    width: 70%;
+    margin: auto;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    color: #707070;
+}
+
+.Top__Nav_Info a{
+    color: #707070;
+}
