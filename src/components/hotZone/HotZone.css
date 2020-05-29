@@ -1,0 +1,37 @@
+.HotZone{
+    background-color: #fff;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 90%;
+    margin: auto;
+    padding: 15% 5%;
+}
+
+.HotZone__Info{
+    text-align: left;
+}
+
+.HotZone__Info h1{
+    padding-bottom: 4%;
+}
+
+.HotZone img{
+    width: 80%;
+    margin: auto;
+}
+
+.HotZone__Info p{
+    color: #707070;
+    padding-top: 2%;
+    width: 75%;
+}
+
+.HotZone__Btn{
+    margin-top: 8%;
+    padding: 12px 39px;
+    background-color: #3387ea;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+}

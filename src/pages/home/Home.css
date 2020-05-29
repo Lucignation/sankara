@@ -3,6 +3,7 @@
     background-image: url('../../public/problems.svg');
     background-size: contain;
     background-position: center;
-    background-attachment: fixed;
-    height: 500vh;
+    background-repeat: repeat-x;
+    /* background-attachment: fixed; */
+    /* height: 500vh; */
 }
