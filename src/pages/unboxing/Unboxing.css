@@ -1,0 +1,18 @@
+.Configuration{
+    background-color: #fff;
+    padding: 2% 2% 5% 0%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.Left__Info{
+    width: 40%;
+    /* margin-top: -7.9%; */
+    /* margin-bottom: -5.3%; */
+    padding-top: 14%;
+    /* padding-bottom: 4%; */
+}
+
+.Right__Info{
+    grid-column: 2/5;
+}

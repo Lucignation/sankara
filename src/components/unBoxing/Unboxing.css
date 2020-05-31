@@ -1,0 +1,39 @@
+.Unboxing__Img_Links img{
+    width: 250px;
+    margin-left: 20px;
+    margin-top: 8%;
+}
+
+.Unboxing__Info h2{
+    padding-top: 6%;
+    font-size: 20px;
+    padding-bottom: 2%;
+}
+
+.Unboxing__Info p{
+    color: #707070;
+    margin-bottom: 1%;
+}
+
+.Setup__Link {
+    padding: 12px 39px;
+    background-color: #3387ea;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+}
+
+.Setup__Btn{
+    margin-top: 8%;
+    margin-left: 65%;
+}
+
+.Setup__Link:hover{
+    color: #fff;
+}
+
+#unboxing img{
+    border-radius: 10px;
+    border: 3px solid blue;
+}

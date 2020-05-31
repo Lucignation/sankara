@@ -1,0 +1,30 @@
+.ConfigurationMenu{
+    background-color: #eee;
+    /* width: 10%; */
+    /* height: 80vh; */
+    margin-top: -2.1%;
+    margin-bottom: -5.3%;
+}
+
+.ConfigurationMenu i{
+    font-size: 2.5em;
+    /* width: 100%; */
+    padding-left: 35%;
+}
+
+.ConfigurationMenu a{
+    color: #707070;
+}
+
+.ConfigurationMenu a:active{
+    color: #000;
+}
+
+.top__Menu p{
+    width: 65%;
+    margin: auto;
+    padding-bottom: 80%; 
+    font-size: 12px;
+    text-align: center;
+    
+}

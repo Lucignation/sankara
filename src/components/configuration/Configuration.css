@@ -1,0 +1,17 @@
+.Configuration__Btn{
+    margin-top: 8%;
+    margin-left: 35%;
+}
+
+.Configuration__Btn a{
+    margin-left: 15px;
+}
+
+.Setup__Link_Secondary{
+    background-color: #4c4cd4b7;
+}
+
+#configuration img{
+    border-radius: 10px;
+    border: 3px solid blue;
+}

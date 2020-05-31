@@ -1,0 +1,56 @@
+.Top__Nav{
+    background-color: #fff;
+    border-bottom: 1px solid #eeee;
+}
+
+.Controller{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #fff;
+    padding: 7%;
+    padding-top: 10%;
+}
+
+.Controller__Info{
+    width: 70%;
+}
+
+
+.Controller__Info h2{
+    width: 70%;
+    line-height: 1.2;
+    padding-bottom: 8%;
+}
+
+.Controller__Info p{
+    line-height: 1.4;
+    padding-bottom: 14%;
+    color: #707070;
+}
+
+.Controller__Info span{
+    line-height: 1.4;
+    padding-bottom: 14%;
+    color: #3387ea;
+}
+
+.Controller img{
+    width: 500px;
+    margin: auto;
+    padding-left: 15%;
+}
+
+.Controller__Link{
+    padding: 12px 30px;
+    background-color: #3387ea;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-transform: uppercase;
+    margin-right: 13%;
+}
+
+.Customize__Link{
+    color: #959595;
+    border-bottom: dotted;
+}

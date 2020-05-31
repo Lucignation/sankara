@@ -1,0 +1,30 @@
+.Footer{
+    width: 100%;
+    font-size: 12px;
+    padding: 2%;
+    padding-left: 7%;
+    background-color: #fff;
+    border-top: 1px solid #eee;
+}
+
+.Footer__Info{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    width: 50%;
+    /* background-color: red; */
+}
+
+.Footer__Products{
+    display: flex;
+    justify-content: space-between;
+    grid-column: 2/8;
+}
+
+.Footer a{
+    color: #707070;
+}
+
+.Footer__Products span{
+    width: 2px;
+    color: #707070;
+}

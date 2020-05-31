@@ -9,7 +9,7 @@ const Top__menu = props =>  {
             <div className="Top__Nav_Info">
                 <p>GERALD OLUMIDE</p>
                 <p>EN</p>
-                <a href="#HotZone"><i class="fas fa-th"></i></a>
+                <a href="#HotZone"><i className="fas fa-th"></i></a>
             </div>
         </div>
     );

@@ -21,7 +21,7 @@ const LandingPage = props => {
                 <img src={UI} alt="Getting Started UI" />
             </div>
             <p className="Scroll">
-                <a href="#hotZone"><span className="Scroll__Icon">SCROLL TO READ MORE</span>   <i class="fas fa-arrow-down"></i></a>
+                <a href="#hotZone"><span className="Scroll__Icon">SCROLL TO READ MORE</span>   <i className="fas fa-arrow-down"></i></a>
             </p>
         </div>
     )
