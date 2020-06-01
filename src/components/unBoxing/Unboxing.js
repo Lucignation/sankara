@@ -28,13 +28,13 @@ const Unboxing = () => {
                     Unpack your device box and ensure you have the following items
                 </h2>
                 <p>
-                    Camera-AXIS M2026-LE BLACK | Only POE switches are used to power this type of 
+                <i class="fas fa-caret-right"></i>Camera-AXIS M2026-LE BLACK | Only POE switches are used to power this type of 
                 </p>
                 <p>
-                    Network cable (RJ45) to connect camera and shuttle device in the same
+                <i class="fas fa-caret-right"></i>Network cable (RJ45) to connect camera and shuttle device in the same
                 </p>
                 <p>
-                    Shuttle device and a POE switch
+                <i class="fas fa-caret-right"></i>Shuttle device and a POE switch
                 </p>
             </div>
             <p className="Setup__Btn">

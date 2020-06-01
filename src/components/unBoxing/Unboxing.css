@@ -37,3 +37,10 @@
     border-radius: 10px;
     border: 3px solid blue;
 }
+
+.Unboxing__Info i{
+    font-size: 1.7em;
+    color: #3387ea;
+    margin-right: 2%;
+    /* margin-bottom: 1%; */
+}

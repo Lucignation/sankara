@@ -28,13 +28,13 @@ const Configuration = () => {
                     Software Configuration
                 </h2>
                 <p>
-                    Plug in the Shuttle device to the power 
+                <i class="fas fa-caret-right"></i> Plug in the Shuttle device to the power 
                 </p>
                 <p>
-                    Network cable (RJ45) to connect camera and shuttle device in the same
+                <i class="fas fa-caret-right"></i>Network cable (RJ45) to connect camera and shuttle device in the same
                 </p>
                 <p>
-                    Shuttle device and a POE switch
+                <i class="fas fa-caret-right"></i>Shuttle device and a POE switch
                 </p>
             </div>
             <p className="Configuration__Btn">

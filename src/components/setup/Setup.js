@@ -28,16 +28,16 @@ const Setup = () => {
                     Hardware Setup
                 </h2>
                 <p>
-                    Plug in the Shuttle device to the power 
+                <i class="fas fa-caret-right"></i>Plug in the Shuttle device to the power 
                 </p>
                 <p>
-                    Connect the RJ45 cable to Camera and the other end of cable to 
+                <i class="fas fa-caret-right"></i>Connect the RJ45 cable to Camera and the other end of cable to 
                 </p>
                 <p>
-                    Shuttle device and and all Cameras must be on the same
+                <i class="fas fa-caret-right"></i>Shuttle device and and all Cameras must be on the same
                 </p>
                 <p>
-                    Be sure you have the controller setup properly on the Shuttle device to identify all Cameras present on the Network.
+                <i class="fas fa-caret-right"></i>Be sure you have the controller setup properly on the Shuttle device to identify all Cameras present on the Network.
                 </p>
             </div>
             <p className="Setup__Btn">

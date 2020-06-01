@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "camera": "cameraImg" ,
+        "cameraName": "Starlink Camera",
+        "cameraId": "6720WR"
+    },
+    {
+        "id": 2,
+        "camera": "cameraImg" ,
+        "cameraName": "Moovlink Camera",
+        "cameraId": "8716WR"
+    },
+    {
+        "id": 3,
+        "camera": "cameraImg ",
+        "cameraName": "Geralink Camera",
+        "cameraId": "9320TY"
+    },
+    {
+        "id": 4,
+        "camera": "cameraImg" ,
+        "cameraName": "Nikklink Camera",
+        "cameraId": "5770KG"
+    },
+    {
+        "id": 5,
+        "camera": "cameraImg",
+        "cameraName": "GTlink Camera",
+        "cameraId": "8717PD"
+    },
+    {
+       " id": 6,
+        "camera":" cameraImg",
+        "cameraName": "Polink Camera",
+        "cameraId": "8945GH"
+    }
+]

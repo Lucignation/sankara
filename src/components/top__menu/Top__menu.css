@@ -20,3 +20,7 @@
 .Top__Nav_Info i{
     color: #3387ea;
 }
+
+.user__name{
+    text-transform: uppercase;
+}

@@ -1,10 +1,8 @@
 import React from 'react';
 
-import 
-
 import './LiveSession.css';
 
-import StreamingDashsboard from '../../../components/streamingDashboard/StreamingDashboard';
+import StreamingDashsboard from '../../components/streamingDashboard/StreamingDashboard';
 
 const LiveSession = props => {
     return(
