@@ -1,0 +1,60 @@
+/* Camera Listing Page */
+.CameraListing{
+    background-color: #fff;
+    padding: 5%;
+}
+
+/* Camera Listing Heading */
+
+.CameraListing__Heading{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    width: 90%;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.CameraListing__Heading a{
+    margin-left: 65%;
+    color: #707070;
+}
+
+.CameraListing__Heading span{
+    color: #3387ea;
+}
+
+/* Styling of the cameras */
+
+.All__Camera {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.each__camera{
+    width: 80%;
+    margin: auto;
+    border: 1px solid #eee;
+    margin-bottom: 8%;
+    padding: 5%;
+}
+
+.each__camera a{
+    display: grid;
+    grid-template-columns: repeat(2, auto);
+    color: #888888;
+}
+
+.each__camera:active{
+    border: 2px solid #3387ea;
+}
+
+.each__camera a img{
+    width: 90px;
+}
+
+/* Changing the color of the camera found heading */
+
+.camera__name{
+    color: #000;
+}
+

@@ -11,7 +11,7 @@ const ControllerConfig = props => {
                     Found a controller with the ID: <span>092ERT11D</span>
                 </h2>
                 <p>To proceed using this controller and its settings, click on the proceed button below or you can choose to customise your controller</p>
-                <a href="/controller-config" className="Controller__Link">PROCEED</a>
+                <a href="/customize-controller" className="Controller__Link">PROCEED</a>
                 <a href="/customize-settings" className="Customize__Link">CUSTOMIZE SETTINGS</a>
             </div>
             <div>

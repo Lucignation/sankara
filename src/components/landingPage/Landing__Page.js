@@ -16,7 +16,9 @@ const LandingPage = props => {
                         Let's help you get started and easily set up your devices, so you can start creating 
                         events and monitoring sessions
                     </p>
-                    <button className="getStarted__btn">Get Started</button>
+                    <p className="getStarted__btn">
+                        <a href="/controller-config">Get Started</a>
+                    </p>
                 </div>
                 <img src={UI} alt="Getting Started UI" />
             </div>

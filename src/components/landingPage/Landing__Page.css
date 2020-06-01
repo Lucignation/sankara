@@ -25,14 +25,43 @@
     width: 75%;
 }
 
-.getStarted__btn{
-    margin-top: 8%;
+.getStarted__btn a{
     padding: 12px 39px;
     background-color: #3387ea;
     color: #fff;
     border: none;
     border-radius: 5px;
     text-transform: uppercase;
+}
+
+.getStarted__btn a:hover{
+    color: #fff;
+}
+
+.Scroll i{
+    animation: scrollDown .8s  infinite ease-in-out;
+}
+
+
+@keyframes scrollDown{
+    100%{
+        transform: translateY(100%);
+        opacity: 0;
+    }
+
+    50%{
+        transform: translateY(50%);
+        opacity: .5;
+    }
+
+    0%{
+        transform: translateY(0%);
+        opacity: 1;
+    }
+}
+
+.getStarted__btn{
+    margin-top: 8%;
 }
 
 .LandingPage__Main img{

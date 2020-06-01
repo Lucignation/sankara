@@ -1,0 +1,15 @@
+.StreamingDashboard{
+    background-color: #fff;
+    width: 100%;
+    /* margin: auto; */
+    text-align: center;
+}
+
+.StreamingDashboard p{
+    border-bottom: 1px solid #eee;
+    padding: 10%
+}
+
+.StreamingDashboard a{
+    color: #707070;
+}

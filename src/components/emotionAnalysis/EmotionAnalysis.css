@@ -35,6 +35,11 @@
     text-transform: uppercase;
 }
 
+.Emotion a:hover{
+    background-color: #2a68ad;
+    color: #fff;
+}
+
 .Emotion__Btn{
     margin-top: 8%;
 }

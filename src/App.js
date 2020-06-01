@@ -15,6 +15,10 @@ import Unboxing from './pages/unboxing/Unboxing';
 import Setup from './pages/setup/Setup';
 import Configuration from './pages/configuration/Configuration';
 import Controller from './pages/controllerConfig/ControllerConfig';
+import CustomizeController from './pages/customizeController/CustomizeController';
+import CameraListing from './pages/listCameras/ListCameras';
+import GoLive from './pages/goLive/GoLive';
+import DashboardCameras from './pages/dashboardCameras/DashboardCameras';
 
 //import Store 
 import store from './store';
@@ -35,6 +39,10 @@ const App = props => {
             <Route path="/setup" exact component={Setup} />
             <Route path="/software-configuration" exact component={Configuration} />
             <Route path="/controller-config" exact component={Controller} />
+            <Route path="/customize-controller" exact component={CustomizeController} />
+            <Route path="/camera-listing" exact component={CameraListing} />
+            <Route path="/go-live" exact component={GoLive} />
+            <Route path="/select-cameras" exact component={DashboardCameras} /> 
           </Switch>
         </Fragment>
         <Footer />

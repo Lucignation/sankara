@@ -26,7 +26,7 @@
     width: 75%;
 }
 
-.HotZone__Btn{
+.HotZone__Btn a{
     margin-top: 8%;
     padding: 12px 39px;
     background-color: #3387ea;
@@ -34,4 +34,13 @@
     border: none;
     border-radius: 5px;
     text-transform: uppercase;
+}
+
+.HotZone__Btn a:hover{
+    background-color: #2a68ad;
+    color: #fff;
+}
+
+.HotZone__Btn{
+    margin-top: 8%;
 }

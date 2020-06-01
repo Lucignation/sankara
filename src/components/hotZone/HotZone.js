@@ -15,7 +15,9 @@ const HotZone = props => {
                     Monitor Football traffic and Distribution, including people count, age
                     range detention and gender
                 </p>
-                <button className="HotZone__Btn"> NEXT</button>
+                <p className="HotZone__Btn">
+                    <a href="/unboxing"> NEXT</a>
+                </p>
             </div>
             <img src={Mission} alt="Hotzone Detection" />
         </div>
